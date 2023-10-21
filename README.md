@@ -27,9 +27,27 @@ ChatPDF is the ultimate solution for anyone looking to unlock the full potential
 - Upgrade to the Pro version to unlock unlimited PDF chatting.
 - Seamlessly manage, interact, and learn from all your PDFs without restrictions.
 
-ChatPDF brings the power of AI to your fingertips, enhancing your productivity and understanding of complex documents. Say goodbye to endless scrolling and searching – ChatPDF is here to make your PDFs more accessible and user-friendly.
+## Installation
 
-Get started with ChatPDF today and revolutionize the way you work with PDFs.
+1. Clone the repository: `git clone https://github.com/HussainAbuwala/chatpdf.git`
+2. Navigate to the project directory: `cd chatpdf`
+3. Install the dependencies: `npm install`
+4. Start the app: `npm run dev`
 
-[Sign Up for ChatPDF](#) | [Learn More](#)
+## Tools & Languages Used
 
+1. Tailwind CSS
+2. JavaScript
+3. React
+4. TypeScript
+5. Shadcn
+6. NeonDB (Serverless Postgres)
+7. Next.js 13
+8. Drizzle ORM
+9. Amazon S3
+10. OpenAI
+11. PineconeDB
+12. Langchain
+14. Vercel
+15. Clerk
+16. GitHub
