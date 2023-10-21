@@ -48,6 +48,7 @@ ChatPDF is the ultimate solution for anyone looking to unlock the full potential
 10. OpenAI
 11. PineconeDB
 12. Langchain
+13. Stripe
 14. Vercel
 15. Clerk
 16. GitHub
